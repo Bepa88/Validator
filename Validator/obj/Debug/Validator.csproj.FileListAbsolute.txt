@@ -1,0 +1,6 @@
+D:\Vera\Validator\Validator\bin\Debug\Validator.dll
+D:\Vera\Validator\Validator\bin\Debug\Validator.pdb
+D:\Vera\Validator\Validator\obj\Debug\Validator.csprojAssemblyReference.cache
+D:\Vera\Validator\Validator\obj\Debug\Validator.csproj.CoreCompileInputs.cache
+D:\Vera\Validator\Validator\obj\Debug\Validator.dll
+D:\Vera\Validator\Validator\obj\Debug\Validator.pdb

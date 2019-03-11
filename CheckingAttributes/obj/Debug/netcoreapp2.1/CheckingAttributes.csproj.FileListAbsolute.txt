@@ -1,0 +1,17 @@
+D:\Vera\Validator\CheckingAttributes\obj\Debug\netcoreapp2.1\CheckingAttributes.csprojAssemblyReference.cache
+D:\Vera\Validator\CheckingAttributes\obj\Debug\netcoreapp2.1\CheckingAttributes.csproj.CoreCompileInputs.cache
+D:\Vera\Validator\CheckingAttributes\obj\Debug\netcoreapp2.1\CheckingAttributes.AssemblyInfoInputs.cache
+D:\Vera\Validator\CheckingAttributes\obj\Debug\netcoreapp2.1\CheckingAttributes.AssemblyInfo.cs
+D:\Vera\Validator\CheckingAttributes\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Vera\Validator\CheckingAttributes\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Vera\Validator\CheckingAttributes\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Vera\Validator\CheckingAttributes\bin\Debug\netcoreapp2.1\CheckingAttributes.deps.json
+D:\Vera\Validator\CheckingAttributes\bin\Debug\netcoreapp2.1\CheckingAttributes.runtimeconfig.json
+D:\Vera\Validator\CheckingAttributes\bin\Debug\netcoreapp2.1\CheckingAttributes.runtimeconfig.dev.json
+D:\Vera\Validator\CheckingAttributes\bin\Debug\netcoreapp2.1\CheckingAttributes.dll
+D:\Vera\Validator\CheckingAttributes\bin\Debug\netcoreapp2.1\CheckingAttributes.pdb
+D:\Vera\Validator\CheckingAttributes\bin\Debug\netcoreapp2.1\Validator.dll
+D:\Vera\Validator\CheckingAttributes\bin\Debug\netcoreapp2.1\Validator.pdb
+D:\Vera\Validator\CheckingAttributes\obj\Debug\netcoreapp2.1\CheckingAttributes.csproj.CopyComplete
+D:\Vera\Validator\CheckingAttributes\obj\Debug\netcoreapp2.1\CheckingAttributes.dll
+D:\Vera\Validator\CheckingAttributes\obj\Debug\netcoreapp2.1\CheckingAttributes.pdb
