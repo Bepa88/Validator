@@ -138,5 +138,38 @@ namespace Validator.Tests
 
             Assert.IsFalse(result);
         }
+
+        [TestMethod]
+        public void RequiredAndMinLengnthProperty()
+        {
+            var model = new ClassWithRequiredAndMinLengnthProperty
+            {
+                Property = "testtesttest"
+            };
+
+            var result = new Validator().IsValidate(model);
+
+            Assert.IsFalse(result);
+        }
+
+        [TestMethod]
+        public void AllProperty_IsValid()
+        {
+            var model = new Person(1, "Vera", 30);
+
+            var result = new Validator().IsValidate(model);
+
+            Assert.IsTrue(result);
+        }
+
+        [TestMethod]
+        public void AllProperty_IsNotValid()
+        {
+            var model = new Person(1, "Vera", 130);
+
+            var result = new Validator().IsValidate(model);
+
+            Assert.IsFalse(result);
+        }
     }
 }
